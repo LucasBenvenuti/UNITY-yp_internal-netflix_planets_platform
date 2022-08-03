@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: ce1ee2025c623f84b8fb70504dfba937
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore5
+    second: {fileID: 2100000, guid: 56f2a621a2b5ff54c8c43f57958f6a53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore6
+    second: {fileID: 2100000, guid: 9f8e2766f0953a44598b50e940849635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore7
+    second: {fileID: 2100000, guid: 5c979bb16dde08d4b9d25676c9f75f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvores1
+    second: {fileID: 2100000, guid: 26abe3e67a1d24648b47db6a2402f034, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvores2
+    second: {fileID: 2100000, guid: 3e40f836a3b9037478dd0c6589a97953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvores3
+    second: {fileID: 2100000, guid: 541c787bcb03d6a4cbf4fa48e7a679f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvores4
+    second: {fileID: 2100000, guid: 310f9f11ba4732349acdeaceca59d4b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carruagem
+    second: {fileID: 2100000, guid: 2d24ffefa0a9511489e84a4ddf23689d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasaBigbenBake
+    second: {fileID: 2100000, guid: 34e20e2b4ef6b624ea6c45a0931baa35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casas1Baked
+    second: {fileID: 2100000, guid: 2411938b449373540964343270e2880c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casas2
+    second: {fileID: 2100000, guid: e06bf20b01fe90d4dbd1da39f9f6a852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casas3Bake
+    second: {fileID: 2100000, guid: 59543565f416c494db368638c7377800, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Castelos
+    second: {fileID: 2100000, guid: 7a5a7b589e4592b4484a4de7ac8d21cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EstacaoTremFonte
+    second: {fileID: 2100000, guid: 4b7b44813eba22441aaf1836cb45051f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlanetaRio
+    second: {fileID: 2100000, guid: 1c90563040d996144aaa136a53655ea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PonteTrilho
+    second: {fileID: 2100000, guid: da9b214c16ecf8d4e98d75ecaa91718e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PropsPraca
+    second: {fileID: 2100000, guid: 43c5d4d5ac27b7b4bb0938c3217e816b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RioBakd
+    second: {fileID: 2100000, guid: 56e28f996f077524790a164f4b609088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TremCasaNaArvore
+    second: {fileID: 2100000, guid: fada2bd837ac71d4f8441a299eb10d3a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore1Opacity
+    second: {fileID: 2800000, guid: 6dc0ce19f8b69614db76c7c98e12a6cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore4
+    second: {fileID: 2800000, guid: 8124696c2aec84b48af08f5687dcbe10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore4Opacity
+    second: {fileID: 2800000, guid: 50c295088c278794690d24fc78f586b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore5
+    second: {fileID: 2800000, guid: 8aa0c55e47d9ee64d8205dcdd3adde00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore5Opacity
+    second: {fileID: 2800000, guid: 5c480eca75e9be8448e2b843e3cf37f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore6
+    second: {fileID: 2800000, guid: 9dc77824ccbf2b64a92db0660da8f41b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore6Opacity
+    second: {fileID: 2800000, guid: b819903f82ff69346b92611ca6c20020, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore7
+    second: {fileID: 2800000, guid: e1260becac657ed4fb96901503cc44de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore7Opacity
+    second: {fileID: 2800000, guid: 30032cdeb449b734ba9f07b33f2bcfa8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvores1
+    second: {fileID: 2800000, guid: 034ea2636d307ff4f984efbe100eb55b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvores2
+    second: {fileID: 2800000, guid: 376933f51bb276a40a67905c29c80824, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvores2Opacity
+    second: {fileID: 2800000, guid: cd831b542b7bc0343ac997d9f1bf3140, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvores3
+    second: {fileID: 2800000, guid: 744f8a6e95255944fb11dc54b992ffb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvores3Opacity
+    second: {fileID: 2800000, guid: 81db987afcfc2364fa7ef81f01da5b80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Carruagem
+    second: {fileID: 2800000, guid: 9695ef40be6cc90488b3947eed16e0f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CasaBigbenBake
+    second: {fileID: 2800000, guid: 472291b3574898f49b45f4b8d391e923, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Casas2
+    second: {fileID: 2800000, guid: f13b5f09c4d53374bbe58d03efdfabbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Casas3Bake
+    second: {fileID: 2800000, guid: b65a8ec9cb4b5ad4e976d8c8b9db63e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castelos
+    second: {fileID: 2800000, guid: f3884f56a98834146b4f8a912ec7a40c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EstacaoTremFOnte
+    second: {fileID: 2800000, guid: 5c38084b5a558ae40ab1cf3223662a77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planeta
+    second: {fileID: 2800000, guid: 2266622a92a4edb4d9ba3239277e18c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PonteTrilho
+    second: {fileID: 2800000, guid: d81ca8e5a88840b4d947807719c25d94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PropsPraca
+    second: {fileID: 2800000, guid: 6b9c93aac2ad32d48a8ba90eda20eb5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RioBaked
+    second: {fileID: 2800000, guid: ccbd0c11ca75a5c40bb73a1bda0ad5d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TremCasaArvoreOpacity
+    second: {fileID: 2800000, guid: 9d2b1d5b282401c4c8109c5bc0af4dfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TremCasaNaArvore
+    second: {fileID: 2800000, guid: f2a342d71fe5dc04ca787bd15cde4c85, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,455 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4124041780260247892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4124041780260247891}
+  - component: {fileID: 4124041780260247890}
+  m_Layer: 0
+  m_Name: PlanetsLoader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4124041780260247891
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4124041780260247892}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6414350526340843755}
+  - {fileID: 6414350525822176748}
+  - {fileID: 6414350526148707434}
+  - {fileID: 6414350525845975826}
+  - {fileID: 6414350526056407760}
+  - {fileID: 6414350526870185986}
+  - {fileID: 6414350526337988119}
+  - {fileID: 6414350526917854250}
+  - {fileID: 6414350526244197961}
+  - {fileID: 6414350526793203238}
+  - {fileID: 6414350526044955264}
+  - {fileID: 6414350526084590276}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4124041780260247890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4124041780260247892}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d4dd7efeb1b74d47929ded2c6ebdf11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  planetsData:
+  - parent: {fileID: 6414350526340843755}
+    template: {fileID: 3739614766004437127, guid: bcd5ad62b901dc24c8cb1417977575e8,
+      type: 3}
+  - parent: {fileID: 6414350525822176748}
+    template: {fileID: 8918480114843523664, guid: e20c56c368b3e2b4f927542c3cd34dac,
+      type: 3}
+  - parent: {fileID: 6414350526148707434}
+    template: {fileID: 8608485885623931719, guid: c89bab440263f9a43a550f37c26dbf81,
+      type: 3}
+  - parent: {fileID: 6414350525845975826}
+    template: {fileID: 2423952125341974316, guid: aa425c25b78a31a4997e90eb6266db4e,
+      type: 3}
+  - parent: {fileID: 6414350526056407760}
+    template: {fileID: 7369389787214184975, guid: 5225092a252df1d4fb0226497f07abbe,
+      type: 3}
+  - parent: {fileID: 6414350526870185986}
+    template: {fileID: 3623016688956191328, guid: 6b4393cd4cd85b641ac8c82c75210a80,
+      type: 3}
+  - parent: {fileID: 6414350526337988119}
+    template: {fileID: 5501151854565946602, guid: e39f7afb9b33c734281aeabaf1aeaef2,
+      type: 3}
+  - parent: {fileID: 6414350526917854250}
+    template: {fileID: 5712752335300830298, guid: 619fb8da09743e64798d0d04626345cc,
+      type: 3}
+  - parent: {fileID: 6414350526244197961}
+    template: {fileID: 3439169074830907226, guid: aa87698b612d77046bc2d33f78ffb175,
+      type: 3}
+  - parent: {fileID: 6414350526793203238}
+    template: {fileID: 5659690475006346067, guid: 0352d19eca37608488d544a0c6b3c67b,
+      type: 3}
+  - parent: {fileID: 6414350526044955264}
+    template: {fileID: 7163652866807395929, guid: f84d7ad66cbb29e4cbb12713e5162347,
+      type: 3}
+  - parent: {fileID: 6414350526084590276}
+    template: {fileID: 6555089539790999604, guid: 3cfa0af4da792804fa941d17a4869a68,
+      type: 3}
+  interval: 0.2
+--- !u!1 &6414350525822176659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350525822176748}
+  m_Layer: 0
+  m_Name: CarmenSandiegoPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350525822176748
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350525822176659}
+  m_LocalRotation: {x: 0, y: -0.4361606, z: 0, w: 0.8998688}
+  m_LocalPosition: {x: -8.192397, y: 5.6, z: -0.34461}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: -51.718, z: 0}
+--- !u!1 &6414350525845975917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350525845975826}
+  m_Layer: 0
+  m_Name: KlausPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350525845975826
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350525845975917}
+  m_LocalRotation: {x: 0, y: 0.2836807, z: 0, w: 0.9589188}
+  m_LocalPosition: {x: 6.13, y: 9.7, z: 2.76}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 32.96, z: 0}
+--- !u!1 &6414350526044955391
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350526044955264}
+  m_Layer: 0
+  m_Name: MotownMagicPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350526044955264
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350526044955391}
+  m_LocalRotation: {x: 0, y: -0.6324676, z: 0, w: 0.7745869}
+  m_LocalPosition: {x: 10.3, y: 8.66, z: -6.12}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: -78.465, z: 0}
+--- !u!1 &6414350526056407727
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350526056407760}
+  m_Layer: 0
+  m_Name: SuperMonstrosPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350526056407760
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350526056407727}
+  m_LocalRotation: {x: 0, y: -0.4259656, z: 0, w: 0.9047394}
+  m_LocalPosition: {x: -6.504504, y: 9.42, z: 3.842255}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: -50.424, z: 0}
+--- !u!1 &6414350526084590267
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350526084590276}
+  m_Layer: 0
+  m_Name: OverTheMoonPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350526084590276
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350526084590267}
+  m_LocalRotation: {x: 0, y: 0.9991866, z: 0, w: -0.04032661}
+  m_LocalPosition: {x: 0.06572534, y: 6.14, z: 4.38}
+  m_LocalScale: {x: 1.621664, y: 1.621664, z: 1.621664}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: -535.378, z: 0}
+--- !u!1 &6414350526148707349
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350526148707434}
+  m_Layer: 0
+  m_Name: CoryCarsonPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350526148707434
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350526148707349}
+  m_LocalRotation: {x: 0, y: -0.8259071, z: 0, w: 0.5638062}
+  m_LocalPosition: {x: -9.11, y: 5.44, z: -12.29}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: -111.361, z: 0}
+--- !u!1 &6414350526244197942
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350526244197961}
+  m_Layer: 0
+  m_Name: MundoMisterioPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350526244197961
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350526244197942}
+  m_LocalRotation: {x: 0, y: -0.6811275, z: 0, w: 0.7321648}
+  m_LocalPosition: {x: 10.59, y: 4.45, z: -11.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: -85.864, z: 0}
+--- !u!1 &6414350526337988200
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350526337988119}
+  m_Layer: 0
+  m_Name: JurrassicWorldPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350526337988119
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350526337988200}
+  m_LocalRotation: {x: 0, y: 0.1766022, z: 0, w: 0.9842823}
+  m_LocalPosition: {x: -3.238866, y: 7.46, z: -18.13345}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 20.344, z: 0}
+--- !u!1 &6414350526340843668
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350526340843755}
+  m_Layer: 0
+  m_Name: BabyBossPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350526340843755
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350526340843668}
+  m_LocalRotation: {x: 0, y: -0.4097401, z: 0, w: 0.9122024}
+  m_LocalPosition: {x: 8.82, y: 7.81, z: -15.87}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -48.377, z: 0}
+--- !u!1 &6414350526793203289
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350526793203238}
+  m_Layer: 0
+  m_Name: EnolaPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350526793203238
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350526793203289}
+  m_LocalRotation: {x: 0, y: -0.7475513, z: 0, w: -0.6642041}
+  m_LocalPosition: {x: -9.06, y: 8.79, z: -5.98}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: -263.243, z: 0}
+--- !u!1 &6414350526870186109
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350526870185986}
+  m_Layer: 0
+  m_Name: DionPlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350526870185986
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350526870186109}
+  m_LocalRotation: {x: 0, y: 0.5041639, z: 0, w: 0.8636081}
+  m_LocalPosition: {x: 8.75, y: 5.56, z: -0.75}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 60.552, z: 0}
+--- !u!1 &6414350526917854293
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6414350526917854250}
+  m_Layer: 0
+  m_Name: JuliePlanet
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6414350526917854250
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6414350526917854293}
+  m_LocalRotation: {x: 0, y: -0.09252699, z: 0, w: 0.9957102}
+  m_LocalPosition: {x: 2.94, y: 4.49, z: -18.25}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4124041780260247891}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: -10.618, z: 0}

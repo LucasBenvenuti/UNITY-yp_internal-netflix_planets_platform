@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 2593388695
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: globalbundle
+      Dependencies:
+        Dependency_0: globalbundlemobile
+    Info_1:
+      Name: globalbundlemobile
+      Dependencies: {}

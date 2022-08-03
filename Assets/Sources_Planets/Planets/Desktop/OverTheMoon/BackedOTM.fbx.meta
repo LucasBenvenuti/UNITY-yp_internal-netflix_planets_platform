@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 0047600573c4c4f4e9d8a8f0aeb427a4
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AguaBake
+    second: {fileID: 2100000, guid: 0f6b13017aa7ec14da67e981b60ad622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore2Baked
+    second: {fileID: 2100000, guid: d1cac379bb0ce774b9d836c56e1fff40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore3Baked.001
+    second: {fileID: 2100000, guid: 19e79621d5e776942a8ed0d1294632c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore4Bake
+    second: {fileID: 2100000, guid: 8eb6615f8d1b47a42944c2e791925e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore5Bake
+    second: {fileID: 2100000, guid: 7ce42c75cda27ff479d752e2f436f401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore6Baked
+    second: {fileID: 2100000, guid: c402de988c7a6d6439e5f673016617b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArvoreBaked1
+    second: {fileID: 2100000, guid: 1e0f2707434adb849aaae3b0d371d175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArvoreBaked1.001
+    second: {fileID: 2100000, guid: 1e0f2707434adb849aaae3b0d371d175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasaFeiFeiBaked
+    second: {fileID: 2100000, guid: c8c1397f3ba514a40add9e7020350ed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasasGenericasBaked1
+    second: {fileID: 2100000, guid: c307bb834512884468f0f640d9a10b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasasGenericasBaked2
+    second: {fileID: 2100000, guid: 2f806af498c945141a54656f1dd1134e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasasGenericasBaked3
+    second: {fileID: 2100000, guid: 184430ca04ca19e4eab3686f44de4f8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasasGenericasBaked4
+    second: {fileID: 2100000, guid: 976752823918a4049879256840f66598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Construcao1
+    second: {fileID: 2100000, guid: 8de7dbcd2ea0c6448b04e2630d1314e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Construcao2
+    second: {fileID: 2100000, guid: 540633dd20086034b875e2aa973108a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampadas
+    second: {fileID: 2100000, guid: e84455ce5f3a3f246abe4fdaa6c76d36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesaLegume
+    second: {fileID: 2100000, guid: f8288ea9129ced44e8d14bf1fc722da8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesasFeiraBake1
+    second: {fileID: 2100000, guid: a47badc26207ac040a0a5f22f6de244a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 2aa99b2c36e6feb4b8d96945448c4ff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PierPonte
+    second: {fileID: 2100000, guid: 5fa8b41e1dfe9e249b88443f3982604d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlanetaBaked
+    second: {fileID: 2100000, guid: 3424624f106062f408e9ef5ff1f13ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlanetaBaked.002
+    second: {fileID: 2100000, guid: 3424624f106062f408e9ef5ff1f13ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantasDiversas1
+    second: {fileID: 2100000, guid: ff7ccbcefae5f9b46a4e31880ee1cd7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantasDiversas2
+    second: {fileID: 2100000, guid: 066093731ebd69b43850ced32aee9674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas1
+    second: {fileID: 2100000, guid: de0d3b44bf87d1a48843b0d57c353958, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas2
+    second: {fileID: 2100000, guid: f1ea21c5666ceba4c8e51a56e3e29c86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas3
+    second: {fileID: 2100000, guid: 8e9381f5f098b2e4bbae1537a5c30c3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas4
+    second: {fileID: 2100000, guid: 71677b6181942d74ab7aca3b45d76e33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas5
+    second: {fileID: 2100000, guid: afaff1d98c41afb42a960f76ff2964b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas6
+    second: {fileID: 2100000, guid: 1bb8905b10d102948aecbb0387269ee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SalgueiroBaked
+    second: {fileID: 2100000, guid: d65b63690aa57dd428aae6610c7716ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TemploMuralha
+    second: {fileID: 2100000, guid: 0b5e13c4f01305842a4f890ae5fd5ea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TemploMuralha.001
+    second: {fileID: 2100000, guid: 0b5e13c4f01305842a4f890ae5fd5ea2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrilhoTrem
+    second: {fileID: 2100000, guid: cf48971cd16b19243ac468a35302506a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vasos1
+    second: {fileID: 2100000, guid: e84346c034de79f4586aa365b46cb1b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vasos2
+    second: {fileID: 2100000, guid: 287431ed976a135459dc11ac16d6dc3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vasos3
+    second: {fileID: 2100000, guid: 71dcc1dc9e3851148a38ce9f43990e6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VitoriasRegias
+    second: {fileID: 2100000, guid: 96ba3f313bba5bd418ec2a3835011060, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AguaBaked
+    second: {fileID: 2800000, guid: b068db7ccc8ee254db75980fe848c62a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore1BakedFinal
+    second: {fileID: 2800000, guid: 81d956a5474d5d848833b17bf2e662a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore2Baked
+    second: {fileID: 2800000, guid: b7cf1785f7c373545ad6a90a37ec513d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore3Baked
+    second: {fileID: 2800000, guid: dde7ae7ba5cef6f45a5a6e4a268d1743, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore3BakedOpacity
+    second: {fileID: 2800000, guid: 27045ce1e866dd94c9fecf286dfdf80d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore4Bake
+    second: {fileID: 2800000, guid: 530ed4f5c3bd56c4f8f292f30febbb74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore4BakeOpacity
+    second: {fileID: 2800000, guid: bb62963aec3f91d47a9239f8edd458ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore5Bake
+    second: {fileID: 2800000, guid: 46a7050172a84ca41a2a139e3b76ebab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore5BakeOpacity
+    second: {fileID: 2800000, guid: 8584f49ba13f93842932709ebdef9d2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore6Bake
+    second: {fileID: 2800000, guid: 6a82bd84dc29e744480c35818a958711, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore6BakeOpacity
+    second: {fileID: 2800000, guid: 11b92f607ce87a34eb0a55b12a3c7d09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ArvoresBaked1Opacity
+    second: {fileID: 2800000, guid: cef26e6511ee9444ebac5e7602d7c708, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CasFeiFeiBaked
+    second: {fileID: 2800000, guid: 799fc5feae6dcdb4ea94cf2ca6a82764, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CasasGenericas1Baked
+    second: {fileID: 2800000, guid: 2bb8c531ecaaf0f4794950e7967de8a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CasasGenericasBaked2
+    second: {fileID: 2800000, guid: 66bacc30f51551749907e4ec1face056, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CasasGenericasBaked3
+    second: {fileID: 2800000, guid: 40e1d3fa02e2bb246bbbfe42e05878fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CasasGenericasBaked4
+    second: {fileID: 2800000, guid: d06dc1d60b9ba2d40b994d30c497039d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Construcao1
+    second: {fileID: 2800000, guid: 71c0e370f47cec9479245248ebc28f00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Construcao2
+    second: {fileID: 2800000, guid: ba6680c0b0c637c4b8548b56e09e8474, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lampadas
+    second: {fileID: 2800000, guid: 63ea875d97fe8c044b1d0ed5455cf0fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MesaFeira
+    second: {fileID: 2800000, guid: b2ce1778dbcde8b45854adaf46dd5b1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MesaLegume
+    second: {fileID: 2800000, guid: 7c2e01a838f37e64aa540a02634f045e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PierPonte
+    second: {fileID: 2800000, guid: c9554c1f44577084bbc4d03b282610ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PlanetaBakeds
+    second: {fileID: 2800000, guid: f311462fbdbc49043b50a2a72d350811, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PlantasDiversas2
+    second: {fileID: 2800000, guid: ba688f580ca631342a24dda6613eb2a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas1
+    second: {fileID: 2800000, guid: 9ce00986998029442b17177e7487c35b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas2
+    second: {fileID: 2800000, guid: 0fdb47927b91e2347a314c0047c85f76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas3
+    second: {fileID: 2800000, guid: e395ad6c81d2e2048a20aef2d21167d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas4
+    second: {fileID: 2800000, guid: 32f281015b89f43499983e132dffe3cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plantinhas5
+    second: {fileID: 2800000, guid: f00ef424dec51f14885867b9183b360e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PlantinhasDiversas1
+    second: {fileID: 2800000, guid: 4fdbc427f21da364b8877ef404d20284, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SalgueiroBaked
+    second: {fileID: 2800000, guid: 03c39661f554bb743ac68affbb66a8ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SalgueiroBakedOpacity
+    second: {fileID: 2800000, guid: 83064c1afcd525d4085dd2f3b5006f61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TemploMuralha
+    second: {fileID: 2800000, guid: 291c5d70af3aaf7428a4ddd4488e0f64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TrilhoTrem
+    second: {fileID: 2800000, guid: 84bd1ce2ecd06d44084a33bbf926ee80, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vasos2
+    second: {fileID: 2800000, guid: 26ef243c8daa7df4ea9a09e81555a123, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vasos3
+    second: {fileID: 2800000, guid: 073ba6f95a6ae3c48a60b992d11fb4de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VitoriasRegias
+    second: {fileID: 2800000, guid: eafd4add8bce5ae46afe4e0678e23d66, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

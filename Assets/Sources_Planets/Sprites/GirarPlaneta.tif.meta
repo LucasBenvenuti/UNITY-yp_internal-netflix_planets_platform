@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 24878006b68481842b09c9c491b76f60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9125683968921541833
+    second: GirarPlaneta_0
+  - first:
+      213: 6375579245883484263
+    second: GirarPlaneta_1
+  - first:
+      213: 3446051918005108385
+    second: GirarPlaneta_2
+  - first:
+      213: -4830175403742826620
+    second: GirarPlaneta_3
+  - first:
+      213: -3044002026379854383
+    second: GirarPlaneta_4
+  - first:
+      213: -5141198642409190865
+    second: GirarPlaneta_5
+  - first:
+      213: -3249687882256866708
+    second: GirarPlaneta_6
+  - first:
+      213: 993114736090007603
+    second: GirarPlaneta_7
+  - first:
+      213: 1596444418658646300
+    second: GirarPlaneta_8
+  - first:
+      213: -6241009392022018401
+    second: GirarPlaneta_9
+  - first:
+      213: -2785291256920457076
+    second: GirarPlaneta_10
+  - first:
+      213: -7085269208207559645
+    second: GirarPlaneta_11
+  - first:
+      213: 396294275526182106
+    second: GirarPlaneta_12
+  - first:
+      213: -3648214085515954610
+    second: GirarPlaneta_13
+  - first:
+      213: -1363105532789427050
+    second: GirarPlaneta_14
+  - first:
+      213: 527632796104563377
+    second: GirarPlaneta_15
+  - first:
+      213: 2667820753391632243
+    second: GirarPlaneta_16
+  - first:
+      213: -2972944169103062094
+    second: GirarPlaneta_17
+  - first:
+      213: -1695921842864646441
+    second: GirarPlaneta_18
+  - first:
+      213: -5679707663011267921
+    second: GirarPlaneta_19
+  - first:
+      213: -104315713176261056
+    second: GirarPlaneta_20
+  - first:
+      213: 4886706263492809151
+    second: GirarPlaneta_21
+  - first:
+      213: 2848145006325583355
+    second: GirarPlaneta_22
+  - first:
+      213: 7165682052141636284
+    second: GirarPlaneta_23
+  - first:
+      213: -3175599290761986842
+    second: GirarPlaneta_24
+  - first:
+      213: 3411310286503541410
+    second: GirarPlaneta_25
+  - first:
+      213: 1447004550875750675
+    second: GirarPlaneta_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GirarPlaneta_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 53
+        width: 699
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73364fbb7ce0b5180800000000000000
+      internalID: -9125683968921541833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

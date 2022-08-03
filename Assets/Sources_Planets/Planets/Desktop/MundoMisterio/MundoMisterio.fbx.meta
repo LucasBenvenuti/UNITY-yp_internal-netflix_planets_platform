@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: a49463a540f7f3b44bc9188113390b6a
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AguaBake
+    second: {fileID: 2100000, guid: 93a2efb4315548841b501445b1ca1cdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arbusto2Bake
+    second: {fileID: 2100000, guid: 042b3796a4f20a24eaa9bb2ee102a74f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arbusto3Bake
+    second: {fileID: 2100000, guid: 660fca91a12981141842694227e50a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore1Bake
+    second: {fileID: 2100000, guid: c0f2404649067794790243dc2cdfb912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvusto1Bake
+    second: {fileID: 2100000, guid: 532eec6611b6baf40b33d89b667b3842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DinosBake
+    second: {fileID: 2100000, guid: 0c2bef965b822e7468d49d2499fece45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FundoPlaneta
+    second: {fileID: 2100000, guid: 60598daa725c9564e87e664fa0f48e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IlhaBakeada
+    second: {fileID: 2100000, guid: 6cb617a0c9c47ea4e9e22d8c9f83413e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LapidesMao
+    second: {fileID: 2100000, guid: 23f1745bbf69a8c4e8de2dd9d27639cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LoboLuaZombies
+    second: {fileID: 2100000, guid: fd37bd74e7666144bb97d51adc5dc323, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__294
+    second: {fileID: 2100000, guid: 56001b9d0695c8740995566f3110f802, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MontanhaMeteoros
+    second: {fileID: 2100000, guid: 3235bb5ed5b9c7442b9e21e4f40a1477, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No_Name
+    second: {fileID: 2100000, guid: bc6fa9333f6dfbc4c889131c83623048, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OrcaBake
+    second: {fileID: 2100000, guid: 486e687c85056da4dab5d2b6083b8585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PadIceberg
+    second: {fileID: 2100000, guid: f7b10b1c85e88c44bacaa634e899cb51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palmeiras
+    second: {fileID: 2100000, guid: 99c05d9c0c60a9848a0fcc84928bdc8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SateliteDoutorPeste
+    second: {fileID: 2100000, guid: c06909dbceba82c4caafac72f172806a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smoke
+    second: {fileID: 2100000, guid: 416b8152773e0524ba18358fdcadb1de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrianguloBermuda
+    second: {fileID: 2100000, guid: 34565cc3564eb6c4983a417a5f4849aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrianguloFX
+    second: {fileID: 2100000, guid: c1ca5f4cb7073374989fd8397e5d5d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unia
+    second: {fileID: 2100000, guid: 1dbbdb1137215fe48aec09c698d43fbf, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AguaBake
+    second: {fileID: 2800000, guid: c38363a6f1fbbc64ab6483da2a07a67f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arbusto1Bake
+    second: {fileID: 2800000, guid: c5de3b2d8d5e9d5498961f49b1501b67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ArbustoBakeOpacity
+    second: {fileID: 2800000, guid: 0b551752a005ff548a17562f37dc125b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore1Bake
+    second: {fileID: 2800000, guid: 9a77f270e2629e14fa94a04690bcb83b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore1Opacity
+    second: {fileID: 2800000, guid: 9f6ef9819820bac48b865df24ef04e2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DinoBake
+    second: {fileID: 2800000, guid: bb35297a6c86fb64dbd0bf0c83dbacd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FundoPlaneta
+    second: {fileID: 2800000, guid: ec460a27b2dd4954fb5c587833d1606b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IlhaBake
+    second: {fileID: 2800000, guid: 94502a3d933f1174797bb47ef27a881b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LapidesMao
+    second: {fileID: 2800000, guid: 318ed9990d67dbc4eaad04d3c7571ffa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MontanhaMeteoros
+    second: {fileID: 2800000, guid: 2dbfbf048ca92ae44a6c8bb27ffdfb51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OrcaBake
+    second: {fileID: 2800000, guid: 8bf90cb5417caa548a572244d4db4dd7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PadIceberg
+    second: {fileID: 2800000, guid: 22dc5c682d5116b43a176bbab3e1268f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PalmeiraOpacity
+    second: {fileID: 2800000, guid: a0df1a149cfbf1842a9e122a556dea4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SateliteDoutorPeste
+    second: {fileID: 2800000, guid: 737b570400aecce44b533da17025c9a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TrianguloBermuda
+    second: {fileID: 2800000, guid: fb9fc9d418222544aba5fe8817794370, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TrianguloFX
+    second: {fileID: 2800000, guid: 925a1b5f598126942914de5388f4648b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TrianguloFXOpacity
+    second: {fileID: 2800000, guid: 2d1d9cd24cb8cb049ab79a85f7f8fba2, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

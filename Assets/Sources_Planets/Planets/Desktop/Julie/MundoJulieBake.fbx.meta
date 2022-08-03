@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 83f863cb2c3f0674b848f8742e56129e
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BobcatsBaked
+    second: {fileID: 2100000, guid: d977884ee5f28ec4aa5079eb87308f96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasaBaked
+    second: {fileID: 2100000, guid: f13acbadb893de64c838d2eb66f47a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EscadaBaked
+    second: {fileID: 2100000, guid: d694090b98c889941a814f839d473637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EscolaBaked
+    second: {fileID: 2100000, guid: dcd1c69949c90224c84ca42f1125cee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Globo
+    second: {fileID: 2100000, guid: d6f23d10012c42449b21af0f2fae230a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GloboEspelhadoBaked
+    second: {fileID: 2100000, guid: d6f23d10012c42449b21af0f2fae230a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GloboVidroBaked
+    second: {fileID: 2100000, guid: 2f2b553fc88c6504e9d8234ef3b05b73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HollywoodBaked
+    second: {fileID: 2100000, guid: e3154819af6d7af4aaa085beb710fc11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Instrumentos2Baked
+    second: {fileID: 2100000, guid: 96791f0b606c2c94e9c8acf19cf8b534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Intsrumentos1Baked
+    second: {fileID: 2100000, guid: 7c6ec330dcd1ea041938754da44d1ba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesasBaked
+    second: {fileID: 2100000, guid: ab3e292eb266d3b4f95bd138c71919dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MesasBaked.001
+    second: {fileID: 2100000, guid: ab3e292eb266d3b4f95bd138c71919dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 6ade630194f2d4b409527cc00b99be6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OnibusBaked
+    second: {fileID: 2100000, guid: 36ddfb6553ac45948b42d3efd2adad1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlacasBaked
+    second: {fileID: 2100000, guid: 12e670663bf86114eac129aa1f8267b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Planta1Baked
+    second: {fileID: 2100000, guid: cdb0badf363236241a626b7e80b07d63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Planta2Baked
+    second: {fileID: 2100000, guid: 38f0300d06403434e8b4094c3a621c23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Planta3Baked
+    second: {fileID: 2100000, guid: 13f47a4c470875c4c887b3306b2e8784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkateBaked
+    second: {fileID: 2100000, guid: ed237d079e133e2489098ade4c1d533e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TeatroBaked
+    second: {fileID: 2100000, guid: 6ade630194f2d4b409527cc00b99be6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TeatroBaked.002
+    second: {fileID: 2100000, guid: 6ade630194f2d4b409527cc00b99be6c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BobcatsBaked
+    second: {fileID: 2800000, guid: 0730a6442c8c53245bd33d90a6ed4038, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CasaBaked
+    second: {fileID: 2800000, guid: a2725e34f07043c438c746c51093cbbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CinemaBaked
+    second: {fileID: 2800000, guid: ed3d1caa880907d418bd91e8074025a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EscadaBaked
+    second: {fileID: 2800000, guid: ed63e855e8342ff4ea69106d654a6cbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EscolaBaked
+    second: {fileID: 2800000, guid: ee5211971140f4a4384b6940f258d08e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GloboEspelhadoBaked
+    second: {fileID: 2800000, guid: 7be9d00627be45e4caae82e8c850e595, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GloboVidro
+    second: {fileID: 2800000, guid: 12a47aa4bcf21ac498b2ee43e38a9f94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HollywoodBaked
+    second: {fileID: 2800000, guid: e0d7ea3e1bce2d14386eafa91b01caac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Instrumento2
+    second: {fileID: 2800000, guid: 5a7d00daa6d02784abd8b383ff908fe5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Instrumentos1Baked
+    second: {fileID: 2800000, guid: fc2a26d85d733154fbfa9f87b00f424c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MesasBake
+    second: {fileID: 2800000, guid: ae893ea577afba84cb77d0c581ac6249, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OnibusBake
+    second: {fileID: 2800000, guid: fe755edcf784d27408d72e48f9bd1f2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planta1Baked
+    second: {fileID: 2800000, guid: 976f43be9659d41479d72f155d2dc6b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planta1BakedOpacity
+    second: {fileID: 2800000, guid: 1a1973484e83d0b4e84e6b4889b7b791, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planta2Baked
+    second: {fileID: 2800000, guid: 41aa85e733249fe4782ec5528f65260a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planta2BakedOpacity
+    second: {fileID: 2800000, guid: 2e0112367654a4c42a4d99f844e9fcba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planta3Baked
+    second: {fileID: 2800000, guid: 2918bef25e3bf704395236ec93e33501, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Planta3BakedOpacity
+    second: {fileID: 2800000, guid: c6749d111cbfeb04496f707eb63c4582, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SkateBaked
+    second: {fileID: 2800000, guid: b13a71ace4defb5449ec91c7640bfdbe, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

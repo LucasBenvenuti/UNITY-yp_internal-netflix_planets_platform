@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: d4ec902fb98ca26439b68fa49fbe9703
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArvoresBaked
+    second: {fileID: 2100000, guid: 5e58cf226914e224297929eb632d7158, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BasqueteBaked
+    second: {fileID: 2100000, guid: a34fb21074d1ed448a0e9c75940e6254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BasqueteCerca
+    second: {fileID: 2100000, guid: a34fb21074d1ed448a0e9c75940e6254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarrosBaked
+    second: {fileID: 2100000, guid: 3d5780fc81082ab4287fe11d68832be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa1Baked
+    second: {fileID: 2100000, guid: 3b59aa7a9fa43ff43859c4e8a12d548f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa2Baked
+    second: {fileID: 2100000, guid: ae8bfa8e688b3c04181472b1a26af191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Casa2BakedNew
+    second: {fileID: 2100000, guid: ae8bfa8e688b3c04181472b1a26af191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChaoEscolaBake
+    second: {fileID: 2100000, guid: 89770b56cddb46e41a9253cf92d756e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EscolaBaked
+    second: {fileID: 2100000, guid: 382d08096d7c711458704b9ff9eb8563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EscolaBakedNew
+    second: {fileID: 2100000, guid: 382d08096d7c711458704b9ff9eb8563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FogueteBake
+    second: {fileID: 2100000, guid: 55e915addf9297149907245b7c7eba7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GloboBaked
+    second: {fileID: 2100000, guid: bfdaefd226ca1d7489e3ca028d350f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GloboBakedNew
+    second: {fileID: 2100000, guid: bfdaefd226ca1d7489e3ca028d350f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: InstrumentBaked
+    second: {fileID: 2100000, guid: cdef7b256ae8c804ea91dae80e1cf05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: cf3c9116350ed584d909e1807f62510e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MuroBaked
+    second: {fileID: 2100000, guid: 55986b009133c1547a627bbad2128e7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portal
+    second: {fileID: 2100000, guid: ed1e40f6236f563499428577d4eaea18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PropsBaked
+    second: {fileID: 2100000, guid: ed1e40f6236f563499428577d4eaea18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkateBake
+    second: {fileID: 2100000, guid: 94d53282b05fefe4aae66493f24c4b00, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ArvoreBakeOpacity
+    second: {fileID: 2800000, guid: 9bbe24b763ecc0d40855ad77c6c63cd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ArvoresBakeadas
+    second: {fileID: 2800000, guid: 81e53021c8af4014f8bcc29640f1f401, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BasqueteBaked
+    second: {fileID: 2800000, guid: e0810488940f63c4fab7a622da67a2b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BasqueteOpacity
+    second: {fileID: 2800000, guid: f64448a239ca81443baa71c5c2f6ab70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CarrosBaked
+    second: {fileID: 2800000, guid: 3501a27a769cf064bba66ed018f609ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Casa1Baked
+    second: {fileID: 2800000, guid: 55a90865a5be9e54eb352c69883279df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Casa2Baked
+    second: {fileID: 2800000, guid: dfff0f146d55f3c4d8d91a13354ba666, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ChaoEscolaBake
+    second: {fileID: 2800000, guid: be40e38570b39bb45afc6486f4c8d70d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EscolaBaked
+    second: {fileID: 2800000, guid: 3f9834b6f72b0f646bb43c3d0749aa79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FogueteBake
+    second: {fileID: 2800000, guid: 6d1aabf91fc5a164ba19a8d31888ba47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: InstrumentBaked
+    second: {fileID: 2800000, guid: 4a742768c05cbce44a2624ab1e7d3850, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MuroAlpha
+    second: {fileID: 2800000, guid: c4fff9b871ddaa448a7d16242ec128f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MuroBaked
+    second: {fileID: 2800000, guid: 228559bf27eef444cab3cbdc109787c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PropsBaked
+    second: {fileID: 2800000, guid: 1c1369f7f4cc991419a42841100690f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SkateBake
+    second: {fileID: 2800000, guid: 2a36a20c2722525469011fd342ca2e2c, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: b47cc9e154cbdd64db179f41edeec69e
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore3Bake
+    second: {fileID: 2100000, guid: 9d85eabcd8f30e8449d3f018c39dd249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvore4bake
+    second: {fileID: 2100000, guid: 3f353e0bb5ad3d94d888f9719b2c56c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arvores1Bake
+    second: {fileID: 2100000, guid: c851c727263198141ae1393186b2b293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BalaoMesasLuigi
+    second: {fileID: 2100000, guid: 6cea01fe4500c88458997fc0eaf1b9ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BarracasBake
+    second: {fileID: 2100000, guid: 83c53e92a9bdcde4fa6936f9ef063c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarrosselBake
+    second: {fileID: 2100000, guid: 326f5365f896ec645801dde4d5770dec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasaMontroPrefeitura
+    second: {fileID: 2100000, guid: ae7640d400838e54fbeb1e210a1833b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasaraoBake
+    second: {fileID: 2100000, guid: da847a2ee29613849af9282b357e9807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CasinhasGenericas
+    second: {fileID: 2100000, guid: 90cfc6553f5a9d543a13db7d13c64a70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DOURADIRON
+    second: {fileID: 2100000, guid: 30d805148c092bb4ba1f98a3e88128a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EntradaBrinquedoCarrinho
+    second: {fileID: 2100000, guid: e4d85f7c5f42e8a4e9a224b0a48720c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LuigisCasa
+    second: {fileID: 2100000, guid: 06dbe0296a6b85e46b7f93b9cd7d76e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 099af9d356b64aa438854243014bf47a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parquinho
+    second: {fileID: 2100000, guid: 2dc7dab377dd16544b04a8383315e78f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlanetaBake
+    second: {fileID: 2100000, guid: c40d5c5fed8697c40a3bd0bd451aecd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rodagigante
+    second: {fileID: 2100000, guid: cd4ee09ccc4a2c44aad61c8b4268b68a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray_GreenLeaves
+    second: {fileID: 2100000, guid: 93f261abdac186a4299d9ec8ea9621f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray_Trunck
+    second: {fileID: 2100000, guid: bb1bf5e8858bcad4c9ba745fe949bc38, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore1Bake
+    second: {fileID: 2800000, guid: 713d83fa2564092448afb81a12da2887, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore2Bake
+    second: {fileID: 2800000, guid: 287491076a7e58343a0b8bc215b0219e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore3Bake
+    second: {fileID: 2800000, guid: e37256c723f2abf4abbf604da2c0a815, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arvore4Bake
+    second: {fileID: 2800000, guid: 9ecb7a3f3ddd34c49bc823113f5ce52a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BalaoMesasLuigi
+    second: {fileID: 2800000, guid: 1248ba329e8aa9c4fbf9db64c04c3f87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BarracasBake
+    second: {fileID: 2800000, guid: 22e4971d2b68b034fb321a363f1b8028, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CarrosselBake
+    second: {fileID: 2800000, guid: 74bc9105a21f99a45a35b11d8c5d1fa6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CasaMonstroPrefeitura
+    second: {fileID: 2800000, guid: 44bb08854353e484990f5a3d6b823d2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CasaraoBake
+    second: {fileID: 2800000, guid: 2c24d8b58f27f0f48bb9a62f8acfe3ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CasinhasGenericas
+    second: {fileID: 2800000, guid: 85d56d5593bf49f45af1e1f3e82b48f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EntradaBrinquedoCarrinho
+    second: {fileID: 2800000, guid: a05a50340d2faec4aa918acfee8bbf94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LuigisCasa
+    second: {fileID: 2800000, guid: e188052d4f510d54685a5eed94f10d3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ornamento
+    second: {fileID: 2800000, guid: 23aae8426c0989445a928ba330d57200, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Parquinho
+    second: {fileID: 2800000, guid: 1ec62e9d7fc4bb946a7d5e7f8f2d3191, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PlanetaBake
+    second: {fileID: 2800000, guid: 7c2473037dc20b944b93e8dec22d736d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rodagigante
+    second: {fileID: 2800000, guid: 0bd66698ed54d96439fff7d21bde1ce6, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
